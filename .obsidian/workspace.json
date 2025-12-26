@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "architecture/Architecture decider.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Architecture decider"
+              "title": "README"
             }
           }
         ]
@@ -220,9 +220,9 @@
   },
   "active": "d9206fbf08fb58f6",
   "lastOpenFiles": [
-    "Landing page.md",
-    "architecture/Monolith.md",
     "architecture/Architecture decider.md",
+    "README.md",
+    "architecture/Monolith.md",
     "WARP.md",
     "database/Database brain starter.md",
     "database/Liquibase.md",
